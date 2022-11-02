@@ -1,0 +1,32 @@
+body{
+	margin:40px;
+  font-family: verdana;
+}
+
+.avatar{
+  border:/* 1px solid #ddd;*/
+  border-radius: 4px;
+  padding: 20px;
+  width: 150px;
+}
+
+.BCard{
+	padding: 20px;
+	display: flex;
+	justify-content:space-around;/*creates a space around*/
+	width: 400px;
+	margin:0px auto; /* Setting margin-left/right to both auto,centres
+	the card in the browser. Also I have used margin shorthand;if forgotten,
+	refer note */
+	text-align: center;
+	background-color:chocolate;
+	border-bottom:6px solid maroon ;
+}
+
+.border-brown{ 
+	margin-top: 60px;
+/*
+	border: 3px solid brown;
+
+	
+}
